@@ -1,0 +1,11 @@
+export { default as Navbar } from "./NavBar";
+export { default as Footer } from "./Footer";
+export { default as Home } from "./Home";
+export { default as Place } from "./Place";
+export { default as Hero } from "./heroSection";
+export { default as HeartIcon } from "./Icons";
+export { default as Brands } from "./Sponsor";
+export { default as HouseCard } from "./Star";
+export { default as Houses } from "./Houses";
+export { default as NFT } from "./Nfts";
+export { default as Modal } from "./Modal";
